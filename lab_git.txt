@@ -1,0 +1,56 @@
+rok http -subdomain=galileo 80
+  364  brew install --cask openconnect-gui
+  365  docker run busybox
+  366  python3.9 -m pip install virtualenv
+  367  python3.9 -m virtualenv ;y3-env
+  368  python3.9 -m virtualenv py3-env
+  369  source py3-env/bin/activate
+  370  pythn -V
+  371  python -V
+  372  deactivate
+  373  py -3 -m pip install virtualenv
+  374  py -3 -m pip install virtualenv
+  375  source py3-env/Scripts/activate
+  376  python3.9 -m pip install virtualenv
+  377  source py3-env/Scripts/activate
+  378  source py3-env/Scripts/activate
+  379  python3.9 -m pip install virtualenv
+  380  ls
+  381  cd py3-env/
+  382  cd bin/
+  383  cd 1
+  384  .1
+  385  1
+  386  cd ..
+  387  ls include/
+  388  ls lib/
+  389  more pyvenv.cfg 
+  390  nano .bash_profile
+  391  cd
+  392  nano .bash_profile 
+  393  nano .bash_profile 
+  394  source .bash_profile 
+  395  cd Desktop
+  396  ls
+  397  nano .bash_profile 
+  398  cd
+  399  nano .bash_profile 
+  400  source .bash_profile 
+  401  ls
+  402  ls
+  403  source .bash_profile 
+  404  nano .bash_profile 
+  405  source .bash_profile 
+  406  cd Desktop
+  407  nano .bash_profile 
+  408  cd
+  409  nano .bash_profile 
+  410  source .bash_profile 
+  411  cd Desktop
+  412  nano .bash_profile 
+  413  cd
+  414  git clone https://github.com/CiscoDevNet/dne-security-code
+  415  cd dne-security-code/
+  416  git log
+  417  git statsus
+#END OF ORIGINAL TEST
