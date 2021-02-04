@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 asdkfj;alkfjasdf
 
 
@@ -5,6 +6,21 @@ asdkfj;alkfjasdf
 
 >>>>>>> newton
 =======
+>>>>>>> newton
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+this is a committed line while stashing a change
+=======
+this is a stashed line
+>>>>>>> Stashed changes
+=======
+this is a stashed line
+>>>>>>> Stashed changes
+=======
+this is a stashed line
+>>>>>>> Stashed changes
 >>>>>>> newton
 asdlkfjas;lkfjas;lfkjas;lfkjs;flkasjf;laksjf;lsakfj
 Our best thoughts came from others.
