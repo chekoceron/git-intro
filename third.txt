@@ -1,1 +1,2 @@
-msterTHIS IS A THIRD FILE TO BE MERGED.
+master, please take responsibility of this merge
+THIS IS A THIRD FILE TO BE MERGED.
