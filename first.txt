@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 this is a committed line while stashing a change
+=======
+this is a stashed line
+>>>>>>> Stashed changes
 =======
 this is a stashed line
 >>>>>>> Stashed changes
